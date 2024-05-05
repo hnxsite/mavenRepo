@@ -1,0 +1,24 @@
+-encoding
+'UTF-8'
+-protected
+-source
+'1.7'
+-sourcepath
+'C:/Users/AKRAM/Desktop/pro/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/AKRAM/Desktop/pro/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'pro 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/7/docs/api' 'C:/Users/AKRAM/Desktop/pro/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'pro 1.0-SNAPSHOT API'
